@@ -24,6 +24,15 @@ android {
     lintOptions {
         abortOnError false
     }
+
+    buildTypes {
+        debug {
+            resValue "id", "webviewload_monitor_cancel_point",""
+        }
+        release {
+            resValue "id", "webviewload_monitor_cancel_point",""
+        }
+    }
 }
 
 repositories {

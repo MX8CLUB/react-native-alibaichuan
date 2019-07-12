@@ -1,6 +1,6 @@
 # 集成最新百川SDK 206，支持高佣申请
 
-# 使用的相关事例在：[DemoAlibaichuan.js](https://github.com/bashen1/react-native-alibaichuan/blob/master/DemoAlibaichuan.js)
+# 使用的相关事例在：[DemoAlibaichuan.js](https://github.com/MX8CLUB/react-native-alibaichuan/blob/master/DemoAlibaichuan.js)
 
 # react-native-alibaichuan
 
